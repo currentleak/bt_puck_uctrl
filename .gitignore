@@ -1,3 +1,6 @@
+codegentemp/
+Export/
+
 # Prerequisites
 *.d
 
